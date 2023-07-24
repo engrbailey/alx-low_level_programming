@@ -1,0 +1,2 @@
+#!/bin/bash
+git add . && git commit -m "Another one (Variables and blah blah blah)" && git push
